@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A continuation of our weekly intelligence from His Majesties army. Dated Septemb. 12.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80383</idno>
+            <idno type="STC">Wing C5960</idno>
+            <idno type="STC">Thomason E117_14</idno>
+            <idno type="STC">ESTC P1504</idno>
+            <idno type="EEBO-CITATION">99861327</idno>
+            <idno type="PROQUEST">99861327</idno>
+            <idno type="VID">156072</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80383)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156072)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E117[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A continuation of our weekly intelligence from His Majesties army. Dated Septemb. 12.</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed, September 16. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Northampton, Septem. 12"--p. 3.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Nottinghamshire (England) --  History, Military --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156072:1" rendition="simple:additions"/>
+            <p>A CONTINVATION Of our weekly INTELLIGENCE From His Majeſties Army. Dated <hi>Septemb.</hi> 12.</p>
+            <p>Printed, <hi>September</hi> 16. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="newsbook">
+            <pb facs="tcp:156072:2"/>
+            <pb n="3" facs="tcp:156072:2"/>
+            <opener>
+               <dateline>Northampton, <date>
+                     <hi>Septem.</hi> 12.</date>
+               </dateline>
+               <salute>My good Friend,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Sent fuller, but it was intercepted in the way; In breefe, the King wants mony, the pay is nothing but Dol<g ref="char:EOLhyphen"/>lars, the towne is forced to take that for 6. s. w<hi rend="sup">ch</hi> is not worth 5. s. beſides the King called the Gentry of that Shire toge<g ref="char:EOLhyphen"/>ther, to deſire of them 500. li. a relique of Ship-money left in the then high Sheriffes hands, the beginning of Parliament, the middle-ſized Gen<g ref="char:EOLhyphen"/>try, though they made appearance, were not cal<g ref="char:EOLhyphen"/>led up, did not give their conſent (being diſcon<g ref="char:EOLhyphen"/>tented) however the 500. li was taken; many of the Kings ſervants goe away for want of pay; for Ordnance there is no more noiſe of any, only I heare an inckling, as if they were making ſome Iron ones: for foote they have ſome more: The King deſired to ſee them compleate, there were of them nigh 3000. men and boyes, but not above halfe armed, and 80. of them were hired for i. s. a man for a day, and to mend the matter, to de<g ref="char:EOLhyphen"/>ceive to the full, they gave up in a Liſt to the
+<pb n="4" facs="tcp:156072:3"/> King 5000. The Parliament Army diſquiets <hi>Not<g ref="char:EOLhyphen"/>tingham,</hi> and ſo they are reſolved to goe further off, to <hi>Darby</hi> firſt, and then Weſtward, or per<g ref="char:EOLhyphen"/>haps Northweſt too therfrom, I do beleeve it is yet to be reſolved, it is ſure two peeces of Ordnance went to <hi>Darby</hi> on Wendſday laſt, ſome Armes and Ammunition, on Saturday it was exſpected more ſhould goe, and this day the King was to goe, whether to returne, it is not yet reſolved, but its moſt probable they will leave <hi>Nottingham,</hi> they threaten to pillage it before they take their leaves, and ſome Raſcals talke of worſe, but ſure they dare not doe it. The King ſummoned the trained bands of <hi>Nottingham</hi> ſhire, the appearance was thin, they told him, he never received ſo much loyalty and affection from any County; and though he called them to appeare in perſon with their Armes, yet becauſe of Harveſt, and be<g ref="char:EOLhyphen"/>cauſe of their Wives and Children, it ſhould ſuf<g ref="char:EOLhyphen"/>fice to ſend him their Armes, and in the Word of a King to returne them when he had ſetled His Kingdom in peace: They cryed out, They would goe with him: However their Armes were com<g ref="char:EOLhyphen"/>manded to the Caſtle for that night, and next morning they were forced to return diſarmed; ſo they ſerved <hi>Leiceſter</hi> ſhire: I gueſſe, his Councels vary, and did he know how to beſtow His Ord<g ref="char:EOLhyphen"/>nance, he would be altogether in a flying poſture, and turne his Foote into Dragooneers, which yet he may doe, if Foote come in no faſter; they will
+<pb n="5" facs="tcp:156072:3"/> incline Weſtward, or Northweſt, and in the way, get up what Armes they can, by ſpeeches, and perforce. <hi>Darby</hi> was forced to reſigne ſome, that Shire is righter then moſt: wee get nothing in the Counties by this deliberation, and I finde, if they were not ſeeing people, they would to the Cava<g ref="char:EOLhyphen"/>liers, as <hi>Nottingham,</hi> and ſuch Townes, when pro<g ref="char:EOLhyphen"/>miſes have been made in vaine.</p>
+            <p>Here are Letters come this day from Scotland, that tells us of a defeate given by Generall <hi>Leſly</hi> to 4000. Iriſh, who had raiſed a Fort neare <hi>Charl<g ref="char:EOLhyphen"/>mount,</hi> which he beat them from, notwithſtand<g ref="char:EOLhyphen"/>ing it was a great advantage to them, and was maintained with indifferent courage, he went not forward againſt <hi>Charlemount</hi> for want of Ord<g ref="char:EOLhyphen"/>nance: The Letters ſpeake likewiſe of the reſem<g ref="char:EOLhyphen"/>bling of the Counſell of Scotland, which will be the 21. of this inſtant, at which time moſt believe here, ſomewhat will be agreed for the furthering the peace of England: Here is Letters alſo, that 5000. Armes are come to <hi>Newcaſtle</hi> for His Ma<g ref="char:EOLhyphen"/>jeſty: Here are divers dangerous Bookes come, Printed at <hi>London,</hi> I wonder no more care is ta<g ref="char:EOLhyphen"/>ken, ſome of them are enough to put the world into a combuſtion.</p>
+            <pb n="6" facs="tcp:156072:4"/>
+            <p>Hence is diſpatcht a third Meſſage to the Houſe, you will ſee large expreſſions for the defence of the Lawes and Liberties of the Kingdome, and of the true Proteſtant Religion: Sir, the Kings Ma<g ref="char:EOLhyphen"/>jeſty hath not a Subject that wiſhes him more happineſſe than my ſelfe, nor is willinger to be<g ref="char:EOLhyphen"/>lieve he meanes as he ſaith, but when I conſider what I have heard my Lord Keeper <hi>Coventry</hi> of<g ref="char:EOLhyphen"/>ten ſay in Star-Chamber, That his Majeſty had commanded him to ſay, that he would loſe his life rather then leave his Religion, and yet all thoſe times none were in favour about him for the tranſ<g ref="char:EOLhyphen"/>acting his affaires, but ſuch as were agents for Spaine and Rome, and none were preferred, but ſuch as were Popiſh, and done ſomewhat by way of Innovation: And likewiſe for Lawes the like Declarations have been made, and yet nothing hath been countenanced but that which was de<g ref="char:EOLhyphen"/>ſtructive to the Law: and now Sir, the principall tranſactors of his Majeſties affaires, and that Byas him, are ſuch as are Popiſh, and enemies to Laws and Law-makers: I ſhall leave the application to your ſelfe, and conclude with this ſecret; Here is much whiſpering of Maſſacring the Puritan par<g ref="char:EOLhyphen"/>ty, yea, ſome great ones have put it forward with much violence, but others have rejected it, not as barbarous, but as not advantagious to his Maje<g ref="char:EOLhyphen"/>ſties deſignes, things ſtanding as they doe.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:156072:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
